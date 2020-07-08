@@ -2,6 +2,16 @@
 
 This repository is a Julia companion to the book "Grokking Deep Learning", [available here](https://manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258 "Grokking Deep Learning").
 
+You can set up your environment from Julia by running the commands below
+
+    julia> cd("Grokking-Deep-Learning-with-Julia/") 
+
+    #press ']' to enter pkg mode
+    (@v1.4) pkg> activate .
+
+    (Grokking-Deep-Learning-with-Julia) pkg> instantiate
+
+
 - [Chapter 3 - Forward Propagation - Intro to Neural Prediction](https://github.com/deepaksuresh/grokJulia/blob/master/Chapter3%20-%20Forward%20Propagation%20-%20Intro%20to%20Neural%20Prediction.ipynb)
 - [Chapter 4 - Gradient Descent - Into to Neural Learning](https://github.com/deepaksuresh/grokJulia/blob/master/Chapter4%20-%20Gradient%20Descent%20-%20Intro%20to%20Neural%20Learning.ipynb)
 - [Chapter 5 - Generalizing Gradient Descent - Learning Multiple Weights at a Time](https://github.com/deepaksuresh/grokJulia/blob/master/Chapter5%20-%20Generalizing%20Gradient%20Descent%20-%20Learning%20Multiple%20Weights%20at%20a%20Time.ipynb)
