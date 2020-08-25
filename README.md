@@ -11,6 +11,7 @@ You can set up your environment from Julia by running the commands below
 
     (Grokking-Deep-Learning-with-Julia) pkg> instantiate
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deepaksuresh/Grokking-Deep-Learning-with-Julia/master)
 
 - [Chapter 3 - Forward Propagation - Intro to Neural Prediction](https://github.com/deepaksuresh/grokJulia/blob/master/Chapter3%20-%20Forward%20Propagation%20-%20Intro%20to%20Neural%20Prediction.ipynb)
 - [Chapter 4 - Gradient Descent - Into to Neural Learning](https://github.com/deepaksuresh/grokJulia/blob/master/Chapter4%20-%20Gradient%20Descent%20-%20Intro%20to%20Neural%20Learning.ipynb)
